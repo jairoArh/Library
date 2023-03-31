@@ -1,8 +1,14 @@
-# Ejemplo de Springboot
+# Ejemplo de SpringBoot
+
+[![Java: 17](https://img.shields.io/badge/Java-17+-green)](#)[![SpringBoot 3.05](https://img.shields.io/badge/Spring--Boot-3.05-blue)](#)
 
 Proyecto para explorar las generalidades de SpringBoot, a través de la creación de una API RESTFull que gestiona Autores y Libros. 
 
 Se persiste en una base de datos de PostgreSQL en la nube [supabase](https://app.supabase.com/sign-in).
+
+Los elementos que se integramn se pueden observar en la siguiente imagen:
+
+<img src="src/main/resources/static/images/image.png">
 
 ## Requisitos previos
 
